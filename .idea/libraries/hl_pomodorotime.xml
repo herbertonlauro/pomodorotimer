@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hl-pomodorotime">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hl-pomodorotime.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
